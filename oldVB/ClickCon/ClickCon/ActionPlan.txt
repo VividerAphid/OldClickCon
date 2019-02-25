@@ -1,0 +1,32 @@
+﻿The New Action Plan:
+
+v 2.6.0
+ -Bots!
+
+v 2.5.0
+ -Scroll Function
+X-Bye Bye Refresh
+
+v 2.4.0
+
+X-3+ player planeto lock
+X-Random gen map additions
+X-Random gen in map editor
+
+v 2.3.5
+
+X-Surrender Button
+X-End/Skip Button
+X-Any planeto shield
+X-Two player planet lock
+X-Map Editor planet sym
+X-New maps
+
+v 2.3.0:
+
+X-SEPARATE LEFT CLICK FOR ATTACKS AND RIGHT CLICK FOR SHIELD FFS 
+X-Randomised shields at start
+X-Randomised "Roadblocks" at start
+X-Lock feature on planetos
+X-Interface Rearrangement
+X-Tutorial

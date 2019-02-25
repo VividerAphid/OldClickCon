@@ -1,0 +1,13 @@
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\bin\Debug\ClickCon.exe.config
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\bin\Debug\ClickCon.exe
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\bin\Debug\ClickCon.pdb
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\bin\Debug\ClickCon.xml
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.Resources.resources
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.vbproj.GenerateResource.Cache
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.exe
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.xml
+c:\users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.pdb
+C:\Users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.GameScreen.resources
+C:\Users\treve_000\documents\visual studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.MapEditor.resources
+C:\Users\treve_000\Documents\Visual Studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.vbprojAssemblyReference.cache
+C:\Users\treve_000\Documents\Visual Studio 2013\Projects\ClickCon\ClickCon\obj\Debug\ClickCon.vbproj.CoreCompileInputs.cache
